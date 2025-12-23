@@ -82,4 +82,4 @@ h5py
 ```
 
 ## ✨ Screenshots
-PneumoSightAI-HomePage.png
+![Home Page](PneumoSightAI-HomePage.png)
