@@ -32,23 +32,39 @@ If you want to run this project locally, follow these steps :
 
 Client setup : 
 1. Navigate to the client directory :
-```cd Client```
+```
+cd Client
+```
 2. Install dependencies :
-```npm install```
+```
+npm install
+```
 3. Start the development server :
-```npm run dev```
+```
+npm run dev
+```
 4. Open the following URL in your browser :
-```http://localhost:5173```
+```
+http://localhost:5173
+```
 
 Server setup : 
 1. Navigate to the server directory :
-```cd Server```
+```
+cd Server
+```
 2. Install required dependencies :
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 3. Run the server :
-```python app.py```
+```
+python app.py
+```
 4. The backend server will run at:
-```http://localhost:5000```
+```
+http://localhost:5000
+```
 
 
 
