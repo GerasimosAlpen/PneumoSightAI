@@ -34,6 +34,7 @@ git clone https://github.com/GerasimosAlpen/PneumoSightAI.git
 cd PneumoSightAI
 ```
 
+
 Client setup : 
 1. Navigate to the client directory :
 ```
@@ -51,6 +52,7 @@ npm run dev
 ```
 http://localhost:5173
 ```
+
 
 Server setup : 
 1. Navigate to the server directory :
@@ -81,3 +83,5 @@ opencv-python==4.12.0
 h5py
 ```
 
+## ✨ Screenshots
+![Home Page](PneumoSightAI-HomePage.png)
