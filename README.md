@@ -81,3 +81,5 @@ opencv-python==4.12.0
 h5py
 ```
 
+## ✨ Screenshots
+PneumoSightAI-HomePage.png
