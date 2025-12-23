@@ -27,17 +27,17 @@ AI Training
 If you want to run this project locally, follow these steps :
 1. Clone the repository
 ```
-git <span style="color: orange;">orange</span> https://github.com/GerasimosAlpen/PneumoSightAI.git
+git clone https://github.com/GerasimosAlpen/PneumoSightAI.git
 ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```
-<span style="color: orange;">cd</span> PneumoSightAI
+cd PneumoSightAI
 ```
 
 Client setup : 
 1. Navigate to the client directory :
 ```
-<span style="color: orange;">cd</span> Client
+cd Client
 ```
 2. Install dependencies :
 ```
@@ -55,7 +55,7 @@ http://localhost:5173
 Server setup : 
 1. Navigate to the server directory :
 ```
-<span style="color: orange;">cd</span> Server
+cd Server
 ```
 2. Install required dependencies :
 ```
@@ -70,5 +70,14 @@ python app.py
 http://localhost:5000
 ```
 
-
+## 📦 Requirements
+Python packages that are required for the backend
+```
+flask==3.1.2
+flask-cors==6.0.2
+tensorflow==2.20.0
+numpy==2.2.6
+opencv-python==4.12.0
+h5py
+```
 
