@@ -26,14 +26,18 @@ AI Training
 ## 🚀 Installation
 If you want to run this project locally, follow these steps :
 1. Clone the repository
-```git clone https://github.com/GerasimosAlpen/PneumoSightAI.git```
-2. Navigate to the project directory:
-```cd PneumoSightAI```
+```
+git <span style="color: orange;">orange</span> https://github.com/GerasimosAlpen/PneumoSightAI.git
+```
+3. Navigate to the project directory:
+```
+<span style="color: orange;">cd</span> PneumoSightAI
+```
 
 Client setup : 
 1. Navigate to the client directory :
 ```
-cd Client
+<span style="color: orange;">cd</span> Client
 ```
 2. Install dependencies :
 ```
@@ -51,7 +55,7 @@ http://localhost:5173
 Server setup : 
 1. Navigate to the server directory :
 ```
-cd Server
+<span style="color: orange;">cd</span> Server
 ```
 2. Install required dependencies :
 ```
